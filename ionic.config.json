@@ -1,5 +1,7 @@
 {
   "name": "uploadFiles",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
